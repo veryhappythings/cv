@@ -1,0 +1,25 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "CV for Mac Chapman",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.6.4",
+    "gulp-less": "^3.0.3",
+    "gulp": "^3.8.11",
+    "gulp-markdown": "^1.0.0",
+    "gulp-minify-css": "^1.1.0",
+    "gulp-wrapper": "^0.1.5",
+    "marked": "^0.3.3",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/veryhappythings/cv"
+  },
+  "author": "Mac Chapman",
+  "license": "ISC"
+}
