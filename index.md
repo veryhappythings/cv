@@ -34,6 +34,7 @@ January 2014 - Present
     * Leading meetings, Reviewing code and coaching team members.
     * Working to establish more rapid development, utilising VMWare and Vagrant to build better development environments for the entire team.
     * Leading meetings and promoting agile development in an effort to produce a healthier workplace with more predictable production.
+    * Working with sales, marketing, customer service and directors to determine and communicate feature priorities and estimates.
 
 ### Software Engineer, Osirium
 
