@@ -22,19 +22,22 @@ In my free time, I like to work in Ruby because I really appreciate the look and
 
 ## Employment History
 
-### Senior Software Engineer, Osirium
+### Senior Software Engineer & Tech Lead, Osirium
 
 January 2014 - Present
 
 * *Skills used*: Python, Ruby, PostgreSQL, C#, test-driven development, database optimisation, agile development.
 
-* *Role overview*: Senior engineer leading a small team, managing the development of the product to meet the needs of several very demanding customers while designing, developing and deploying major features.
+* *Role overview*: Senior engineer leading a small team building password management software for large enterprise companies, managing the development of the product to meet the needs of demanding customers while designing, developing and deploying major features.
 
 * *Interesting challenges*:
     * Leading meetings, Reviewing code and coaching team members.
+    * Running 1:1 meetings with team members.
     * Working to establish more rapid development, utilising VMWare and Vagrant to build better development environments for the entire team.
     * Leading meetings and promoting agile development in an effort to produce a healthier workplace with more predictable production.
     * Working with sales, marketing, customer service and directors to determine and communicate feature priorities and estimates.
+    * Hiring engineers.
+    * Splitting the department into two teams.
 
 ### Software Engineer, Osirium
 
