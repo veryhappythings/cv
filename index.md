@@ -81,7 +81,7 @@ August 2006 – June 2007
 * *Role overview*: Research engineer developing eCHASE, a project exploring new ways to search museum collections using research carried out by the University of Southampton. Documented the project as it reached end of life and undertook a solo project to re-use the open source codebase.
 
 * *Interesting challenges*:
-    * Working with then-new search techniques such as shape and colour matching as well as ontologies such as Dublin Core.
+    * Bringing a good user experience to then-new search techniques such as shape and colour matching.
     * Finding new ways to make searching museum catalogues easier and more productive for users.
     * Working with a team distributed across several organisations.
 
