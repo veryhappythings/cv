@@ -61,7 +61,7 @@ July 2008 – June 2011
 * *Role overview*: Software engineer mainly tasked with building web crawlers to download bills from mobile network operators websites. Also responsible for parsing affiliate feeds and converting them into usable data for the Billmonitor site.
 
 * *Interesting challenges*:
-    * Manipulating large datasets (200,000 mobile phone tariffs, 200 handsets, 11 million items on sale).
+    * Manipulating large datasets (11 million possible combinations of tariff/handset).
     * Parsing unusual data feeds from multiple affiliates.
     * Scaling the site when it was featured on The One Show.
     * Working through due diligence from Ofcom to become the first price comparison site to be accredited by them.
