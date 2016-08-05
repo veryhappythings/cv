@@ -1,7 +1,7 @@
 Mac Chapman
 ===========
 
-## Vital statistics
+## Vital Statistics
 
 * Date of birth: 16/08/1984
 * Nationality: British
