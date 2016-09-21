@@ -109,5 +109,5 @@ Sept 2000 – July 2002
 * Writing, including blogging at [Shrieking.net](http://www.shrieking.net) and writing novels for [NaNoWriMo](http://www.nanowrimo.org).
 * Homebrewing.
 * Video and board gaming.
-* Event management and volunteering, including working with ESL, Multiplay, epic.LAN.
+* Event management and volunteering, including working with ESL, Multiplay, and epic.LAN.
 * Managing a board gaming group.
