@@ -15,10 +15,9 @@ Mac Chapman
 
 I am a senior software engineer with 8 years professional experience, focusing on Python, Ruby, and Java, with some exposure to Chef, bash, and HTML/CSS/JS.
 
-I am keen on developing maintainable Python systems, incorporating testing through Nosetests and documentation through Sphinx. I have experience with Twisted and SQLAlchemy through the Osirium codebase.
+I am keen on developing maintainable Python systems, incorporating testing and documentation. I have experience with Twisted and SQLAlchemy through the Osirium codebase.
 
 In my free time, I like to work in Ruby because I really appreciate the look and feel of the language, but I have also put together several open source libraries in Python, such as an IRC bot library designed in the spirit of Flask and a Python wrapper for Valve's Dota 2 data API.
-
 
 ## Employment History
 
