@@ -1,63 +1,64 @@
 Mac Chapman
 ===========
 
-## Vital Statistics
-
-* Date of birth: 16/08/1984
-* Nationality: British
-* Location: Witney, Oxfordshire, UK
-* Driving licence: full, clean
-* Email: [mac@veryhappythings.co.uk](mailto:mac@veryhappythings.co.uk)
-* Website: [veryhappythings.co.uk](http://www.veryhappythings.co.uk)
-* Github: [veryhappythings](http://www.github.com/veryhappythings)
-
 ## About Me
 
-I am a senior software engineer with 8 years professional experience, focusing on Python, Ruby, and Java, with some exposure to Chef, bash, and HTML/CSS/JS.
+* Location: Witney, Oxfordshire, UK
+* Email: [mac@veryhappythings.co.uk](mailto:mac@veryhappythings.co.uk)
+* Github: [veryhappythings](http://www.github.com/veryhappythings)
 
-I am keen on developing maintainable Python systems, incorporating testing and documentation. I have experience with Twisted and SQLAlchemy through the Osirium codebase.
-
-In my free time, I like to work in Ruby because I really appreciate the look and feel of the language, but I have also put together several open source libraries in Python, such as an IRC bot library designed in the spirit of Flask and a Python wrapper for Valve's Dota 2 data API.
+I am an engineering leader with 9 years professional experience in startups
+and small companies. Over that time I've developed software, hired developers,
+built teams, fought fires and delivered high quality products.
 
 ## Employment History
 
-### Senior Software Engineer & Tech Lead, Osirium
+### Engineering Team Lead, Osirium
 
 January 2014 - Present
 
-* *Skills used*: Python, Ruby, PostgreSQL, C#, test-driven development, database optimisation, agile development.
-
-* *Role overview*: Senior engineer leading a small team building password management software for large enterprise companies, managing the development of the product to meet the needs of demanding customers while designing, developing and deploying major features. Steering the growth of the department as the business scaled.
+* *Role overview*: Leading a small team building password management software
+for large enterprise companies, managing the development of the product to
+meet the needs of demanding customers while designing, developing and
+deploying major features. Redesigning the structure of the software and the
+department as the business scaled following a successful IPO.
 
 * *Interesting challenges*:
-    * Leading meetings, Reviewing code and coaching team members.
-    * Running 1:1 meetings with team members.
-    * Working to establish more rapid development, utilising VMWare and Vagrant to build better development environments for the entire team.
-    * Leading meetings and promoting agile development in an effort to produce a healthier workplace with more predictable production.
-    * Working with sales, marketing, customer service and directors to determine and communicate feature priorities and estimates.
-    * Hiring engineers.
-    * Reorganising the department from one team to two and planning for further growth.
+    * Leading meetings, reviewing code and coaching developers.
+    * Introducing regular 1:1 meetings with team members.
+    * Working to establish more rapid development, utilising VMWare, Vagrant and Docker to build better development environments for the entire team.
+    * Iterating on our software development lifecycle, introducing Jira and Github code reviews, and adjusting course as we learned how to use those tools.
+    * Collaborating with sales, marketing, customer service and directors to determine and communicate feature priorities and estimates, encouraging regular stakeholder discussions.
+    * Hiring engineers, doubling the size of the department in 2016.
+    * Reorganising the department from one team to four and planning for further growth.
+    * Working remotely 80% of the time.
+
+* *Skills Used*: recruitment, technical leadership, agile methodologies, Jira.
 
 ### Software Engineer, Osirium
 
 June 2011 - December 2013
 
-* *Skills used*: Python, Ruby, PostgreSQL, C#, test-driven development, database optimisation, agile development.
-
-* *Role overview*: Member of a small team working to scale a prototype codebase designed for 5-10 devices into a large-scale production-ready solution capable of handling hundreds of firewalls, routers, and servers.
+* *Role overview*: Member of a small team working to scale a prototype
+codebase designed for 5-10 devices into a large-scale production-ready
+solution capable of handling hundreds of firewalls, routers, and servers.
 
 * *Interesting challenges*:
     * Fostering a culture of testing within the company, starting from zero.
     * Balancing management of technical debt with developing features that would ensure a greater uptake of the product.
     * Promoting agile development in an effort to produce a healthier workplace with more predictable production.
+    * Developing features for high profile customers such as Vodafone and BAE on tight deadlines.
+
+* *Skills used*: Python, PostgreSQL, test-driven development, database optimisation, agile development.
 
 ### Software Engineer, Optimor
 
 July 2008 – June 2011
 
-* *Skills used*: Python, MongoDB, Jython, web crawling, scaling, AWS, Chef, Ruby.
-
-* *Role overview*: Software engineer mainly tasked with building web crawlers to download bills from mobile network operators websites. Also responsible for parsing affiliate feeds and converting them into usable data for the Billmonitor site.
+* *Role overview*: Software engineer mainly tasked with building web crawlers
+to download bills from mobile network operators websites. Also responsible for
+parsing affiliate feeds and converting them into usable data for the
+Billmonitor site.
 
 * *Interesting challenges*:
     * Manipulating large datasets (11 million possible combinations of tariff/handset).
@@ -65,25 +66,7 @@ July 2008 – June 2011
     * Scaling the site when it was featured on The One Show.
     * Working through due diligence from Ofcom to become the first price comparison site to be accredited by them.
 
-### Barback, Establishment Bar, Sydney
-
-December 2007 – June 2008
-
-* Set up/tear down and bar-useful work in one of Sydney’s premier hospitality venues while travelling.
-
-### Research Engineer, IT Innovation
-
-August 2006 – June 2007
-
-* *Skills used*: Java, HTML, CSS.
-
-* *Role overview*: Research engineer developing eCHASE, a project exploring new ways to search museum collections using research carried out by the University of Southampton. Documented the project as it reached end of life and undertook a solo project to re-use the open source codebase.
-
-* *Interesting challenges*:
-    * Bringing a good user experience to then-new search techniques such as shape and colour matching.
-    * Finding new ways to make searching museum catalogues easier and more productive for users.
-    * Working with a team distributed across several organisations.
-
+* *Skills used*: Python, MongoDB, Jython, web crawling, scaling, AWS, Chef, Ruby.
 
 ## Education
 
@@ -93,16 +76,6 @@ Sept 2002 - July 2006
 
 * BSc/MEng Computer Science (4 year course), 2:1
 
-### Peter Symonds College, Winchester
-
-Sept 2000 – July 2002
-
-* Computing (A)
-* Mathematics (B)
-* Business Studies (C)
-* Media AS (C)
-
-
 ## Hobbies & Interests
 
 * Running.
@@ -110,4 +83,3 @@ Sept 2000 – July 2002
 * Homebrewing.
 * Video and board gaming.
 * Event management and volunteering, including working with ESL, Multiplay, and epic.LAN.
-* Managing a board gaming group.
