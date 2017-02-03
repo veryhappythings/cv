@@ -31,9 +31,10 @@ department as the business scaled following a successful IPO.
     * Collaborating with sales, marketing, customer service and directors to determine and communicate feature priorities and estimates, encouraging regular stakeholder discussions.
     * Hiring engineers, doubling the size of the department in 2016.
     * Reorganising the department from one team to four and planning for further growth.
+    * Refactoring software to support more engineers as the business grew.
     * Working remotely 80% of the time.
 
-* *Skills Used*: recruitment, technical leadership, agile methodologies, Jira.
+* *Skills Used*: recruitment, technical leadership, agile methodologies, Jira, Python, PostgreSQL.
 
 ### Software Engineer, Osirium
 
