@@ -7,15 +7,42 @@ Mac Chapman
 * Email: [mac@veryhappythings.co.uk](mailto:mac@veryhappythings.co.uk)
 * Github: [veryhappythings](http://www.github.com/veryhappythings)
 
-I am an engineering leader with 9 years professional experience in startups
-and small companies. Over that time I've developed software, hired developers,
-built teams, fought fires and delivered high quality products.
+I am an engineering leader with over 10 years professional experience in
+startups and small companies. I'm a generalist with experience in developing
+backend software, increasing site reliability, building infrastructure, driving
+quality, pushing DevOps practices, building teams, managing teams and even a
+little bit of customer service. I'm good at taking an ambiguous situation,
+pulling the next 2 weeks of work out of it, and then tying that back to some
+kind of big vision. I'm not so good at long term planning in stable environments.
+
+I've got a lot of experience working remotely and I've done a fair amount of
+presenting, including a few talks at PyCon UK. I've even done a bit of event
+planning.
 
 ## Employment History
 
+### Senior Developer, Virtualstock
+
+December 2017 - Present
+
+* *Role overview*: Tech lead on the DevOps team, driving quality in all aspects
+of the software ranging from the frontend to the infrastructure.
+
+* *Interesting challenges*:
+  * Implementing DevOps best practices, attempting to eliminate the need for a
+    DevOps team
+  * Building and maintaining a CI pipeline
+  * Automating end to end testing
+  * Combining/merging the ad-hoc configuration of 9 separate, unique environments
+    into one managed solution
+  * Regularly speaking at our department all-hands meetings
+
+* *Skills used*: BDD, CircleCI, Jenkins, Ansible, Python, Terraform, New Relic,
+  SRE
+
 ### Engineering Team Lead, Osirium
 
-January 2014 - Present
+January 2014 - November 2017
 
 * *Role overview*: Leading a small team building password management software
 for large enterprise companies, managing the development of the product to
