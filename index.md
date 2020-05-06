@@ -103,11 +103,3 @@ Billmonitor site.
 Sept 2002 - July 2006
 
 * BSc/MEng Computer Science (4 year course), 2:1
-
-## Hobbies & Interests
-
-* Running.
-* Writing, including blogging at [Shrieking.net](http://www.shrieking.net) and writing novels for [NaNoWriMo](http://www.nanowrimo.org).
-* Homebrewing.
-* Video and board gaming.
-* Event management and volunteering, including working with ESL, Multiplay, and epic.LAN.
