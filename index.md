@@ -55,7 +55,7 @@ department as the business scaled following a successful IPO.
     * Introducing regular 1:1 meetings with team members.
     * Working to establish more rapid development, utilising VMWare, Vagrant and Docker to build better development environments for the entire team.
     * Iterating on our software development lifecycle, introducing Jira and Github code reviews, and adjusting course as we learned how to use those tools.
-    * Collaborating with sales, marketing, customer service and directors to determine and communicate feature priorities and estimates, encouraging regular stakeholder discussions.
+    * Collaborating with sales, marketing, customer service and directors to determine and communicate feature priorities and estimates.
     * Hiring engineers, doubling the size of the department in 2016.
     * Reorganising the department from one team to four and planning for further growth.
     * Refactoring software to support more engineers as the business grew.
@@ -73,9 +73,9 @@ solution capable of handling hundreds of firewalls, routers, and servers.
 
 * *Interesting challenges*:
     * Fostering a culture of testing within the company, starting from zero.
-    * Balancing management of technical debt with developing features that would ensure a greater uptake of the product.
-    * Promoting agile development in an effort to produce a healthier workplace with more predictable production.
-    * Developing features for high profile customers such as Vodafone and BAE on tight deadlines.
+    * Balancing management of technical debt with developing features.
+    * Promoting agile development.
+    * Developing features for high profile customers such as Vodafone and BAE.
 
 * *Skills used*: Python, PostgreSQL, test-driven development, database optimisation, agile development.
 
