@@ -21,9 +21,16 @@ planning.
 
 ## Employment History
 
+### Senior Reliability Engineer, Genomics plc
+
+September 2020 - Present
+
+* *Role overview*: Site reliability engineer for Precision Health, building
+  tools to incorporate genetic risk scores into routine healthcare.
+
 ### Senior Developer, Virtualstock
 
-December 2017 - Present
+December 2017 - August 2020
 
 * *Role overview*: Tech lead on the DevOps team, driving quality in all aspects
 of the software ranging from the frontend to the infrastructure.
