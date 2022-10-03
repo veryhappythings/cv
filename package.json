@@ -10,7 +10,7 @@
     "gulp-markdown": "^7.0.0",
     "gulp-clean-css": "^4.3.0",
     "gulp-wrapper": "^1.0.0",
-    "marked": "^4.1.0"
+    "marked": "^4.1.1"
   },
   "devDependencies": {},
   "scripts": {
